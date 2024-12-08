@@ -1,0 +1,7 @@
+.input {
+  padding: 5px;
+  border: 1px solid purple;
+  border-radius: 5px;
+  max-width: 25%;
+  box-shadow: 0 4px 8px rgba(128, 0, 128, 0.3); /* Yumuşak mor gölge */
+}

@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.button {
+  border: 1px solid purple;
+  padding: 0 10px;
+  border-radius: 5px;
+}

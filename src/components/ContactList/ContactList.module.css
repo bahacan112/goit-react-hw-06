@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid purple;
+  max-width: 25%;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(128, 0, 128, 0.3); /* Yumuşak mor gölge */
+}

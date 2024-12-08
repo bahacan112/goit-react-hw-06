@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  gap: 20px;
+  border: 1px solid purple;
+  padding: 20px;
+  justify-content: left;
+  flex-direction: column;
+  max-width: 25%;
+  box-shadow: 0 4px 8px rgba(128, 0, 128, 0.3); /* Yumuşak mor gölge */
+  border-radius: 10px;
+}
+.input {
+  border: 1px solid purple;
+  padding: 4px;
+  border-radius: 5px;
+  width: 100%;
+}
+.label {
+  display: flex;
+
+  gap: 10px;
+  align-items: center;
+}
+.button {
+  border: 1px solid purple;
+  padding: 0 10px;
+  border-radius: 5px;
+}
